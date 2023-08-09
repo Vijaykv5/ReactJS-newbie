@@ -21,9 +21,11 @@ Learning React can be exciting but also challenging. That's why we've created th
 ## Contributions 🤝
 Contributions are welcome! If you've got additional questions, explanations, or code examples, feel free to submit a pull request. Together, we can enhance this resource and make it even more valuable for React beginners worldwide!
 
-Don't forget to ⭐️ Star this repository if you find it helpful! ⭐️
+
 Remember, every great React journey begins with mastering the basics. Let's embark on this learning adventure and build a solid foundation together! Happy coding! 😄👩‍💻👨‍💻
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/vijaykv555/) for more coding insights! 💼
+
+Don't forget to ⭐️ Star this repository if you find it helpful! ⭐️
 
 
